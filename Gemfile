@@ -70,6 +70,12 @@ gem 'rails_autolink'
 # websocket-extensions
 gem "websocket-extensions", ">= 0.1.5"
 
+# ransack
+gem 'ransack'
+
+# kaminari
+gem 'kaminari'
+
 group :test do
   gem 'capybara', '>= 2.15'
   gem 'selenium-webdriver'
